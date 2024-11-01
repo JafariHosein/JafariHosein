@@ -4,7 +4,9 @@ I'm a passionate Computer Engineering student at Islamic Azad University, Qom, w
 
 ## 💻 Skills
 - **Programming Languages**: Python
-- **Bot Development**: Telegram Bot Development
+- **Bot Development**: 
+  - Telegram Bot Development
+  - Experience with Iranian messaging platforms for bot development
 - **API Integration**: Experience in integrating various APIs
 - **Object-Oriented Programming (OOP)**
 
