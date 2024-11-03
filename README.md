@@ -1,4 +1,4 @@
-# Hi there, I'm Hossein Jafari! 👋
+# Hi there, I'm Hosein Jafari! 👋
 
 I'm a passionate Computer Engineering student at Islamic Azad University, Qom, with a keen interest in Artificial Intelligence and Software Development. I enjoy building projects that solve real-world problems and enhance user experiences.
 
