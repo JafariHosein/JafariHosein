@@ -1,12 +1,18 @@
 <div align="center">
+
   
 # 👨‍💻 Hosein Jafari
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hosein-jafari-b0a3ab288/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hosseindev@yahoo.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@h3inyt)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TheH3iN)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.h3in.ir)
 [![GitHub followers](https://img.shields.io/github/followers/JafariHosein?style=for-the-badge&logo=github)](https://github.com/JafariHosein)
 
 Computer Engineering Student | Full-Stack Developer | Bot Developer
+
+</div>
 
 </div>
 
