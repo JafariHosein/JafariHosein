@@ -10,7 +10,7 @@
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.h3in.ir)
 [![GitHub followers](https://img.shields.io/github/followers/JafariHosein?style=for-the-badge&logo=github)](https://github.com/JafariHosein)
 
-Computer Engineering Student | Full-Stack Developer | Bot Developer
+Computer Engineering Student | Bot Developer
 
 </div>
 
@@ -44,14 +44,11 @@ I'm a Computer Engineering student at Islamic Azad University, Qom, passionate a
 - Cross-platform compatibility
 
 ### 🌐 Web Development
-- React.js frontend applications
-- Node.js backend services
 - RESTful API integration
 - Responsive design implementation
 
 ## 📚 Currently Expanding Knowledge In
 
-- Advanced React Patterns and State Management
 - Microservices Architecture
 - Cloud Computing and Deployment
 - Testing and CI/CD Pipelines
